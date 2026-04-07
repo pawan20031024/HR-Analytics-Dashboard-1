@@ -1,1 +1,1 @@
-# HR-Analytics-Dashboard-1
+#HRAnalytics #DataAnalysis #PowerBI #Excel #SQL #Dashboard #BeginnerProject #DataAnalytics
